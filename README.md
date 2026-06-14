@@ -1,1 +1,0 @@
-# smart_inventory_management
